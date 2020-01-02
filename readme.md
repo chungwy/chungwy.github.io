@@ -4,3 +4,4 @@
   * Sub-bullet 2.1
   * Sub-bullet 2.2
 * Point 3
+* Point 4
