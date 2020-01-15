@@ -1,3 +1,4 @@
+name: chungwy.github.io
 plugins:
   - jekyll-relative-links
 relative_links:
